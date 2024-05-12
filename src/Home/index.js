@@ -226,7 +226,7 @@ class Home extends Component{
 
                 <div className="filter-head-for-bg">
                     <div>
-                    <h4>FILTER</h4>
+                   
                     
                 <div className="filter-head-for-bg">
                     <div className="all-items-length">

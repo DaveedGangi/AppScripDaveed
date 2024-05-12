@@ -305,26 +305,35 @@ text-align: center;
     }
     .filter-head-for-smaller-screen{
         display: block;
+        margin-top: 14px;
     }
     .filter-select{
         padding-left: 22px;
         margin-left: 33px;
         outline:none;
+        background-color: #ffffff;
+        width: 160px;
     }
     .flex-custom1{
         width: 80px;
         flex-wrap: wrap;
     }
     .each-card-item{
-        width: 120px;
+        width: 140px;
     }
     .each-image{
-        width: 80px;
-        height: 100px;
+        width: 140px;
+        height: 170px;
     }
-    .filter-head-for-bg{
-        width: 79%;
+    
+    .all-items-length{
+        width: 100%;
     }
+    .left-side-custom{
+        width: 300px;
+        padding-left: 12px;
+    }
+   
    
    
 
